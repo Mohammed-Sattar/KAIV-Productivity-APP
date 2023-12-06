@@ -3,8 +3,6 @@ http://www.plantuml.com/plantuml/uml/ZPPRR-is3CVV_Ic8lCnd9pd0NeqYQBjq5o0TYbwmPyL
 
 
 @startuml
-
-' Define the GUI class with methods
 class GUI {
   + showLoginPage(): void
   + showMainPage(user: User): void
@@ -14,21 +12,18 @@ class GUI {
   + displayError(message: String): void
 }
 
-' Define the User class with methods and attributes
 class User {
   - username: String
   - password: String
   + authenticate(): boolean
 }
 
-' Define the Block class with attributes and methods
 class Block {
   - name: String
   - blacklist: List<String>
   - whitelist: List<String>
   - apps: List<String>
   - blockedApplications: List<String>
-  ' Composition indicated here
   - lock: Lock
   + setName(name: String): void
   + setBlackList(blacklist: List<String>): void
@@ -38,24 +33,41 @@ class Block {
   + addURLToWhitelist(url: String): void
   + blockApplication(app: String): void
   + saveLock(lockType: String, details: String): Lock
+  + startBlock(): void
+  + stopBlock(): void
+  + deleteBlock(): void
+  + renameBlock(newName: String): void
+  + unlockBlock(): void
+  + lockBlock(): void
+  + addURL(url: String): void
 }
 
-' Define an abstract Lock class with a method to set the type
-abstract class Lock {
+class EditCurrentBlocksPage {
+  + openBlockImplementationWindow(block: Block): void
+}
+
+class AuthenticationChecker {
+  + isLocked(block: Block): boolean
+  + checkLockType(block: Block): String
+  + isBlockRunning(block: Block): boolean
+  + requestPassword(): void
+  + displayErrorMessage(message: String): void
+  + displayGetHelpLink(): void
+}
+
+class Lock {
   - type: String
   + setType(type: String): void
   + Lock(type: String)
 }
 
-' Define the PasswordLock class inheriting from Lock
-class PasswordLock extends Lock {
+class PasswordLock {
   - password: String
   + setPassword(password: String): void
   + PasswordLock(password: String)
 }
 
-' Define the TimeRangeLock class inheriting from Lock
-class TimeRangeLock extends Lock {
+class TimeRangeLock {
   - startTime: Time
   - endTime: Time
   + setStartTime(startTime: Time): void
@@ -63,33 +75,29 @@ class TimeRangeLock extends Lock {
   + TimeRangeLock(startTime: Time, endTime: Time)
 }
 
-' Define the DailyLimitLock class inheriting from Lock
-class DailyLimitLock extends Lock {
+class DailyLimitLock {
   - timeMeasurement: String
   - dailyLimit: int
+  {methods}
   + setTimeMeasurement(timeMeasurement: String): void
   + setDailyLimit(limit: int): void
   + DailyLimitLock(timeMeasurement: String, dailyLimit: int)
 }
 
-' Define the AuthenticationHelper class
 class AuthenticationHelper {
   + isAuthorized(user: User, action: String): boolean
   + displayErrorMessage(message: String): void
 }
 
-' Define the Deadlock class inheriting from Lock
-class Deadlock extends Lock {
+class Deadlock {
   - name: String
   - lockType: String
 }
 
-' Define the BlockFrame class with a composition relationship to Block
 class BlockFrame {
   + displayBlockDetails()
 }
 
-' Define relationships and multiplicity
 GUI --> User
 GUI --> Block
 GUI -right-> BlockFrame
@@ -100,4 +108,7 @@ Lock <|-- TimeRangeLock
 Lock <|-- DailyLimitLock
 BlockFrame *-- Block : contains >
 
+Block --> EditCurrentBlocksPage
+Block --> AuthenticationChecker
+User -- AuthenticationChecker : uses
 @enduml

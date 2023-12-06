@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="516037fa-113c-4d92-9566-6bebe3846138" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/Overall_connection(Waziri)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/Overall_connection(Waziri)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/Overall_connection(Waziri)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/Overall_connection(Waziri)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kaiv/Deadlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kaiv/MainGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kaiv/MainGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kaiv/test2.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kaiv/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kaiv/testMainPage.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kaiv/testMainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Class Diagram (Waziri)/Class Diagram.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Class Diagram (Waziri)/Class Diagram.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Class Diagram (Waziri)/UML.D-SE-PROJECT-v2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Class Diagram (Waziri)/UML.D-SE-PROJECT-v2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Class Diagram (Waziri)/UML.D-SE-PROJECT-v3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Class Diagram (Waziri)/UML.D-SE-PROJECT-v3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Class Diagram (Waziri)/UML.D-SE-PROJECT.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Class Diagram (Waziri)/UML.D-SE-PROJECT.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Class Diagram (Waziri)/uml-class-dgrm.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Class Diagram (Waziri)/uml-class-dgrm.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Completed Project Proposal Template.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Completed Project Proposal Template.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Completed Requirement template &amp; risk analysis table.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Completed Requirement template &amp; risk analysis table.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Completed Requirement template &amp; risk analysis table.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Completed Requirement template &amp; risk analysis table.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Course Project Proposal Template.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Course Project Proposal Template.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/SE262 Requirement template &amp; risk analysis table.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/SE262 Requirement template &amp; risk analysis table.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Sequence diagram (Hamza)/Screenshot 2023-11-10 143640.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Sequence diagram (Hamza)/Sequence Diagram.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Sequence diagram (Hamza)/sequence diagram.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Final (Pre-Comments)/Action Footnotes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Final (Pre-Comments)/BlackLOCK.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Final (Pre-Comments)/DeadLOCK.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Final (Pre-Comments)/StartMenu.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Final (Pre-Comments)/State Footnotes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Final (Pre-Comments)/WhiteLOCK.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Final (Pre-Comments)/WhiteVSBlack.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Footnotes/Action Footnotes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Footnotes/State Footnotes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Main/BlackLOCK.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Main/DeadLOCK.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Main/StartMenu.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Main/WhiteLOCK.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Main/WhiteVSBlack.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Old/BLOCKING V1.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Old/BLOCKING V2.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Old/BLOCKING V3.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Old/BlackLOCK.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Old/BlackLOCK1.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Old/DeadLOCK.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Old/DeadLOCK1.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Old/StartMenu.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Old/StartMenu1.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Old/StartMenu2.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Old/State Footnotes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Old/WhiteLOCK.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Old/WhiteLOCK1.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Old/WhiteVSBlack.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Old/WhiteVSBlack1.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Submission Ready/Action Footnotes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Submission Ready/BlackLOCK.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Submission Ready/DeadLOCK.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Submission Ready/StartMenu.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Submission Ready/State Diagrams Documentation.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Submission Ready/State Diagrams Documentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Submission Ready/State Footnotes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Submission Ready/WhiteLOCK.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/State Diagram (Youssef)/Submission Ready/WhiteVSBlack.vsdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Activity (Check Admin) Diagram.vsdx" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Activity (Check Admin) Diagram.vsdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Activity (Create Block) Diagram.vsdx" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Activity (Create Block) Diagram.vsdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Activity (Create Deadlock) Diagram.vsdx" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Activity (Create Deadlock) Diagram.vsdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Activity (Edit Current Blocks) Diagram.vsdx" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Activity (Edit Current Blocks) Diagram.vsdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Activity (Set Lock) Diagram.vsdx" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Activity (Set Lock) Diagram.vsdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Activity Diagram.vsdx" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Activity Diagram.vsdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Activity Diagrams Documentation.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Activity Diagrams Documentation.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Submission Ready/Activity Diagrams Documentation.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Submission Ready/Activity Diagrams Documentation.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Submission Ready/Use Case Diagram Documentation v2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Submission Ready/Use Case Diagram Documentation v2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Use Case Daigram v2.vsdx" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Use Case Daigram v2.vsdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Use Case Diagram Documentation v2.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Use Case Diagram Documentation v2.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Use Case Diagram Documentation.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Use Case Diagram Documentation.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Use Case Diagram Documentation.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Use Case Diagram Documentation.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Use Case Diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/Use Case Diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/usecase.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/usecase.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/usecase.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case &amp; Activity Diagrams (Mohammed)/usecase.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Design Docs/Use Case Diagram.vsdx" beforeDir="false" afterPath="$PROJECT_DIR$/../Design Docs/Use Case Diagram.vsdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/kaiv/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kaiv/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/kaiv/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/kaiv/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Report (In Progress)/Hamza's Work.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Report (In Progress)/KAIV Implementation start to finish.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../Report (In Progress)/KAIV Implementation start to finish.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Report (In Progress)/Project storyline-waziri.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Report (In Progress)/Project storyline-waziri.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Report (In Progress)/Youssef's Work/Pre-Intro and ToC.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submitted Docs/SE262-Producitivy App Requirements-Fall23-Group 1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Submitted Docs/SE262-Producitivy App Requirements-Fall23-Group 1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submitted Docs/SE262-Project Proposal-Fall23-Group 1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Submitted Docs/SE262-Project Proposal-Fall23-Group 1.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2YR7Y95gDQOpPzrPjoq6mM3dIG0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/muham/OneDrive - University of Prince Mugrin/CS Projects/Level 3/SE262 Project - KAIV Productivity Application/KAIV/app/src/main/java/App Block(Nahas)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\muham\OneDrive - University of Prince Mugrin\CS Projects\Level 3\SE262 Project - KAIV Productivity Application\KAIV\app\src\main\java\kaiv" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kaiv.App" />
+      <module name="KAIV.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kaiv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="516037fa-113c-4d92-9566-6bebe3846138" name="Changes" comment="" />
+      <created>1700476584469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700476584469</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -3,12 +3,25 @@
  */
 package kaiv;
 
+import java.io.IOException;
+import java.time.LocalTime;
+
 public class App {
     public String getGreeting() {
+
         return "Hello World!";
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException, InterruptedException {
+
         System.out.println(new App().getGreeting());
+//        new MainGUI();
+        // new testMainPage();
+        LocalTime startTime = LocalTime.now();
+        LocalTime endTime = startTime.plusSeconds(5);
+//        new Deadlock("test", startTime, endTime, true);
+        DailyLimitLock.DailyLock();
+//        new MainGUI();
+//        new test2();
     }
 }
